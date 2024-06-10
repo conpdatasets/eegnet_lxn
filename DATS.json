@@ -1,0 +1,192 @@
+{
+  "title": "Sound Localization",
+  "description": "Two-part paradigm:\n\nIn the first session participants encoded a series of semantically related sound-picture pairs and a series of unpaired sounds. In the second session EEG was recorded while sounds from the encoding phase were replayed and participants had to decide whether the sound was louder on the left or right. Those in the voluntary condition were instructed to retrieve the picture associated with each sound. After the sound localization task, participants listened to the sounds again and retrospectively reported for which sounds (during the localization task) they had remembered the associated picture.",
+  "creators": [
+    {
+      "abbreviation": "",
+      "fullName": "",
+      "firstName": "Karen",
+      "lastName": "Campbell",
+      "email": "karen.campbell@brocku.ca",
+      "affiliations": [
+        {
+          "name": "Brock University"
+        }
+      ],
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0003-0015-6307"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fullName": "Sarah Henderson",
+      "email": "sh14jm@brocku.ca",
+      "firstName": "Sarah",
+      "middleInitial": "E",
+      "lastName": "Henderson",
+      "roles": [
+        {
+          "value": "Contributor"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0003-2753-4355"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "EEG"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "open",
+  "licenses": [
+    {
+      "name": "CC0"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "EDF"
+      ],
+      "size": 20,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://portal.cbrain.mcgill.ca/userfiles/4974899",
+        "authorizations": [
+          {
+            "value": "registered"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "identifier": {
+        "identifier": "https://doi.org/10.1111/psyp.13947"
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "value": "EEG"
+    },
+    {
+      "value": "Aging"
+    },
+    {
+      "value": "Memory"
+    },
+    {
+      "value": "Alpha"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "66"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "600"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Brock University"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "St. Catharines"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Sarah Henderson, sh14jm@brocku.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that a waiver or other authorization to deposit these de-identified data in an open-access portal was obtained from a research ethics body (REB, IRB, REC, etc.)."
+        }
+      ]
+    }
+  ]
+}
