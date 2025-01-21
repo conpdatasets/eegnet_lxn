@@ -7,3 +7,5 @@ Two-part paradigm: In the first session participants encoded a series of semanti
 ## Participant Demographics Disclaimer
 
 In accordance with Brock University principles, all age related variables are coded such that they match the mean ages of the cohorts as reported in the publication.
+
+Data dissemination and standardization supported by [EEGNet.Loris.ca](https://eegnet.loris.ca)
