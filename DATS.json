@@ -179,13 +179,13 @@
         }
       ]
     },
-		{
-			"category": "registrationPage",
+    {
+      "category": "registrationPage",
       "values": [
         {
           "value": "https://eegnet.loris.ca/"
         }
-			]
+      ]
     },
     {
       "category": "contact",
