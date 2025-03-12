@@ -75,7 +75,7 @@
         "value": "GB"
       },
       "access": {
-        "landingPage": "https://portal.cbrain.mcgill.ca/userfiles/4974899",
+        "landingPage": "https://portal.cbrain.mcgill.ca/userfiles/5526641",
         "authorizations": [
           {
             "value": "registered"
@@ -171,6 +171,14 @@
         }
       ]
     },
+	{
+            "category": "origin_consortium",
+            "values": [
+                {
+                    "value": "EEGnet"
+                }
+            ]
+        },
     {
       "category": "origin_consortium",
       "values": [
@@ -192,6 +200,14 @@
       "values": [
         {
           "value": "Sarah Henderson, sh14jm@brocku.ca"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "eegnet-logo_0.png"
         }
       ]
     },

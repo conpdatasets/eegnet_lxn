@@ -17,3 +17,5 @@ Participants were 31 young adults (18-30 years; M=21.06, SD=2.83; 4 males) of wh
 ## Acknowledgements
 
 We thank Tyler Kennedy Collins and Sara Stephenson for programming and technical assistance. This work was supported by the Natural Sciences and Engineering Research Council of Canada (Grant RGPIN-2017-03804 to KLC, 122222-2013 to SJS, and CGS to SEH), the Canadian Foundation for Innovation (Grant #5678 to SJS), and the Canada Research Chairs program (KLC). This research was enabled in part by support provided by Compute Ontario (www.computeontario.ca) and Compute Canada (www.computecanada.ca).
+
+Data dissemination and standardization supported by [EEGNet.Loris.ca](https://eegnet.loris.ca)
