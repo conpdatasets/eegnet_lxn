@@ -139,6 +139,14 @@
         }
       ]
     },
+	{
+      "category": "downloadOptions",
+      "values": [
+    	    {
+        		  "value": "offsite"
+        	}
+      ]
+    },
     {
       "category": "origin_institution",
       "values": [
@@ -171,14 +179,6 @@
         }
       ]
     },
-	{
-            "category": "origin_consortium",
-            "values": [
-                {
-                    "value": "EEGnet"
-                }
-            ]
-        },
     {
       "category": "origin_consortium",
       "values": [
